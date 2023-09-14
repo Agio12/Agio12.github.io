@@ -1,0 +1,60 @@
+</section>
+
+<section id="content">
+    <section id="about">
+        <h2>O mne</h2>
+        <p>Tu napíšte krátky úvod o sebe, vašich záujmoch, cieľoch a skúsenostiach.</p>
+    </section>
+
+    <section id="education">
+        <h2>Vzdelanie</h2>
+        <ul>
+            <li>
+                <h3>Názov univerzity alebo školy</h3>
+                <p>Diplomový program (Rok ukončenia)</p>
+            </li>
+            <li>
+                <h3>Názov univerzity alebo školy</h3>
+                <p>Bakalársky program (Rok ukončenia)</p>
+            </li>
+        </ul>
+    </section>
+
+    <section id="experience">
+        <h2>Profesionálna skúsenosť</h2>
+        <ul>
+            <li>
+                <h3>Názov pozície</h3>
+                <p>Názov spoločnosti (Dátum nástupu - Dátum ukončenia)</p>
+                <p>Krátky popis vašich povinností a úspechov.</p>
+            </li>
+            <li>
+                <h3>Názov pozície</h3>
+                <p>Názov spoločnosti (Dátum nástupu - Dátum ukončenia)</p>
+                <p>Krátky popis vašich povinností a úspechov.</p>
+            </li>
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>Zručnosti</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Ďalšie zručnosti...</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Kontakt</h2>
+        <p>Email: example@email.com</p>
+        <p>Telefón: +123456789</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/vase-meno/" target="_blank">Profil na LinkedIn</a></p>
+    </section>
+
+</section>
+
+    <footer>
+        <p>&copy; 2023 Môj životopis</p>
+    </footer>
